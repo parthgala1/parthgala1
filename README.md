@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Gala</h1>
 <h3 align="center">I like to develop new ideas to websites and apps</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthgala1" alt="parthgala1" /></a> </p>
+[![trophy](http://trophy.ryglcloud.net/?username=parthgala1&theme=nord&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [Companio Bot](https://github.com/parthgala1/Companio-Pixo)
 
