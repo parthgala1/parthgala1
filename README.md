@@ -3,9 +3,9 @@
 
 [![trophy](http://trophy.ryglcloud.net/?username=parthgala1&theme=nord&row=2&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on [Companio Bot](https://github.com/parthgala1/Companio-Pixo)
+- 🔭 I’m currently working on [Virtual Photoshoot](https://github.com/parthgala1/virtual-photoshoot)
 
-- 🌱 I’m currently learning **Artificial Intelligence, RAG, Databases**
+- 🌱 I actively develop AI projects, specializing in **Agentic AI, RAG, and Graph RAG**.
 
 - 👨‍💻 All of my projects are available at [https://parthgala.vercel.app](https://parthgala.vercel.app)
 
